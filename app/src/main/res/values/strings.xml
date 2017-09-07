@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">RxApp02</string>
+	<string name="next_button">Next!</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
